@@ -1,4 +1,38 @@
-<p align="left">💻 About Me<br><br>I'm Garv Mittal, an Electronics and Communication Engineering (ECE) undergraduate at Bharati Vidyapeeth College of Engineering, driven by a passion for self-improvement, leadership, and building practical, impactful solutions.<br>As the President of TechShuttle, my college’s tech society, I lead teams, organize events, and turn creative ideas into reality, from designing posters and preparing presentations to hosting live coding competitions and engaging audiences.<br>I love programming in Python and C, and I’ve built several projects that reflect my curiosity and learning journey:<br><br>🐍 Snake Game – my first project, the one that made me fall in love with coding<br><br>🕹 Pong Game – a fun and interactive classic recreation<br><br>⏱ Pomodoro Timer – boosting productivity through structured focus<br><br>🔐 Password Manager – secure and simple tool for everyday use<br><br>♠️ Blackjack Game – strengthening logic and modular coding skills<br><br>I’m constantly exploring how technology can make life more efficient and creative.</p>
+<p align="left">💻 About Me<br><br>I'm Garv Mittal, an Electronics and Communication Engineering (ECE) undergraduate at Bharati Vidyapeeth College of Engineering, driven by a passion for self-improvement and innovation. I enjoy exploring new technologies, solving real-world problems through coding, and continuously expanding my skill set. Whether it's building web applications, diving into data structures, or working on hardware-software integration, I thrive on learning and creating meaningful solutions.</p>
+
+###
+
+## 🚀 Projects
+
+### [Flash-card-app](https://github.com/Garvv-Mittal/Flash-card-app)
+A flashcard application to help with learning and memorization.
+- **Tech Stack:** Python
+- **Status:** Active (Updated recently)
+
+### [Password-Manager](https://github.com/Garvv-Mittal/Password-Manager)
+A secure password management application for storing and managing passwords.
+- **Tech Stack:** Python
+- **Status:** Active
+
+### [snake-game](https://github.com/Garvv-Mittal/snake-game)
+Classic snake game implementation.
+- **Tech Stack:** Python
+- **Status:** Active
+
+### [pomodoro-timer](https://github.com/Garvv-Mittal/pomodoro-timer)
+A productivity timer based on the Pomodoro Technique.
+- **Tech Stack:** Python
+- **Status:** Active
+
+### [pong-game](https://github.com/Garvv-Mittal/pong-game)
+Classic Pong game recreation.
+- **Tech Stack:** Python
+- **Status:** Complete
+
+### [Simple-Calculator](https://github.com/Garvv-Mittal/Simple-Calculator)
+A basic calculator application.
+- **Tech Stack:** C
+- **Status:** Complete
 
 ###
 
