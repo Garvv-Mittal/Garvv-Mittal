@@ -4,6 +4,11 @@
 
 ## 🚀 Projects
 
+### [Amazon-Clone](https://github.com/Garvv-Mittal/Amazon-Clone)
+A clone of the Amazon e-commerce website showcasing frontend design and deployment skills.
+- **Tech Stack:** HTML, CSS
+- **Status:** Active (Deployed)
+
 ### [Flash-card-app](https://github.com/Garvv-Mittal/Flash-card-app)
 A flashcard application to help with learning and memorization.
 - **Tech Stack:** Python
