@@ -1,8 +1,18 @@
-<p align="left">💻 About Me<br><br>I'm Garv Mittal, an Electronics and Communication Engineering (ECE) undergraduate at Bharati Vidyapeeth College of Engineering, driven by a passion for self-improvement and innovation. I enjoy exploring new technologies, solving real-world problems through coding, and continuously expanding my skill set. Whether it's building web applications, diving into data structures, or working on hardware-software integration, I thrive on learning and creating meaningful solutions.</p>
+<p align="left"> About Me<br><br>
+I'm Garv Mittal, an Electronics and Communication Engineering (ECE) undergraduate at Bharati Vidyapeeth College of Engineering (Batch 2024–2028). I'm the <strong>President of TechShuttle</strong> — BVCOE's technical club — and a selected <strong>GSSoC '26 Contributor</strong> in the AI & Agents Track. I enjoy building web applications, exploring automation workflows, and creating tools that solve real problems. Currently focused on open-source contributions and leveling up in AI agent development.
+</p>
 
 ###
 
-## 🚀 Projects
+##  Achievements & Open Source
+
+### GSSoC '26 — Selected Contributor · AI & Agents Track
+- Contributor at GirlScript Summer of Code 2026, one of India's largest open-source programs
+- Working in the **AI & Agents Track** — building real-world AI-powered tools
+  
+###
+
+##  Projects
 
 ### [Amazon-Clone](https://github.com/Garvv-Mittal/Amazon-Clone)
 A clone of the Amazon e-commerce website showcasing frontend design and deployment skills.
@@ -70,10 +80,10 @@ A basic calculator application.
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/gaarvmittal/" target="_blank">
+  <a href="https://www.linkedin.com/in/gaarvmittal/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="garv.mittal31@gmail.com" target="_blank">
+  <a href="mailto:garv.mittal31@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
