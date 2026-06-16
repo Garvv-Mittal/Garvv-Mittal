@@ -1,99 +1,99 @@
-<p align="left"> About Me<br><br>
-I'm Garv Mittal, an Electronics and Communication Engineering (ECE) undergraduate at Bharati Vidyapeeth College of Engineering (Batch 2024–2028). I'm the <strong>President of TechShuttle</strong> — BVCOE's technical club — and a selected <strong>GSSoC '26 Contributor</strong> in the AI & Agents Track. I enjoy building web applications, exploring automation workflows, and creating tools that solve real problems. Currently focused on open-source contributions and leveling up in AI agent development.
-</p>
+# Hi, I'm Garv Mittal 👋
 
-###
+🎓 **B.Tech Electronics & Communication Engineering Student** at Bharati Vidyapeeth's College of Engineering (GGSIPU)
 
-##  Achievements & Open Source
+🚀 **Front-End Development Intern at QSkill | Undergraduate Researcher & Team Lead (BCI Research) | President of TechShuttle BVCOE**
 
-### GSSoC '26 — Selected Contributor · AI & Agents Track
-- Contributor at GirlScript Summer of Code 2026, one of India's largest open-source programs
-- Working in the **AI & Agents Track** — building real-world AI-powered tools
-  
-###
+I'm passionate about software development, Linux systems, automation, open-source collaboration, and AI-powered applications. My work spans web development, self-hosted infrastructure, research in Brain-Computer Interfaces (BCI), and building practical tools that solve real-world problems.
 
-##  Projects
+---
 
-### [Amazon-Clone](https://github.com/Garvv-Mittal/Amazon-Clone)
-A clone of the Amazon e-commerce website showcasing frontend design and deployment skills.
-- **Tech Stack:** HTML, CSS
-- **Status:** Active (Deployed)
+## 🚀 Current Focus
 
-### [Flash-card-app](https://github.com/Garvv-Mittal/Flash-card-app)
-A flashcard application to help with learning and memorization.
-- **Tech Stack:** Python
-- **Status:** Active (Updated recently)
+- Open Source Contributions (GSSoC 2026)
+- AI Agents & Automation
+- React Ecosystem
+- Linux & Self-Hosting
+- Brain-Computer Interface Research
+- System Design & Productivity Tools
 
-### [Password-Manager](https://github.com/Garvv-Mittal/Password-Manager)
-A secure password management application for storing and managing passwords.
-- **Tech Stack:** Python
-- **Status:** Active
+---
 
-### [snake-game](https://github.com/Garvv-Mittal/snake-game)
-Classic snake game implementation.
-- **Tech Stack:** Python
-- **Status:** Active
+## 🏆 Highlights
 
-### [pomodoro-timer](https://github.com/Garvv-Mittal/pomodoro-timer)
-A productivity timer based on the Pomodoro Technique.
-- **Tech Stack:** Python
-- **Status:** Active
+- President of TechShuttle, leading a 100+ member technical community
+- Front-End Development Intern at QSkill
+- Team Lead for BCI Research under Dean R&D, BVCOE
+- Contributor at GirlScript Summer of Code (GSSoC) 2026
+- Building and managing a self-hosted Linux Homelab using Docker
 
-### [pong-game](https://github.com/Garvv-Mittal/pong-game)
-Classic Pong game recreation.
-- **Tech Stack:** Python
-- **Status:** Complete
+---
 
-### [Simple-Calculator](https://github.com/Garvv-Mittal/Simple-Calculator)
-A basic calculator application.
-- **Tech Stack:** C
-- **Status:** Complete
+## 💻 Tech Stack
 
-###
+### Languages
+Python • JavaScript • C
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="60"/>
-  <img width="12" />      
-</div>
+### Frontend
+React.js • HTML5 • CSS3 • Tailwind CSS
 
-###
+### Libraries & Frameworks
+NumPy • Pandas • Tkinter • React Router
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gaarvmittal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:garv.mittal31@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+### Tools & Platforms
+Git • GitHub • Docker • Linux • Bash • Neovim • VS Code
+
+### Core Concepts
+Data Structures & Algorithms • OOP • Debugging • Version Control
+
+---
+
+## 🚀 Featured Projects
+
+### Linux Homelab Server
+**Debian 13 • Docker • SSH • Linux Administration**
+
+- Converted an old laptop into a headless home server
+- Configured SSH, UFW Firewall, systemd services, and Docker Compose
+- Deployed self-hosted services including Uptime Kuma and CasaOS
+- Implemented persistent storage using UUID-based mounting
+
+### Amazon E-Commerce Clone
+**HTML • CSS • JavaScript**
+
+- Recreated Amazon's storefront UI with responsive design
+- Deployed on Vercel
+
+### Flash Card Learning App
+**Python • Tkinter**
+
+- Built a spaced-repetition flashcard application
+- Automated card flipping and progress tracking
+- Persisted learning progress across sessions using JSON
+
+### Password Manager
+**Python**
+
+- Developed a secure CLI password vault
+- Added authentication and credential management
+- Implemented validation and error handling
+
+---
+
+## 🌱 Open Source
+
+### GSSoC 2026 Contributor
+- Selected contributor in the AI & Agents Track
+- Collaborating on real-world open-source projects
+- Contributing through pull requests, issue resolution, and community engagement
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/garvvmittal
+- GitHub: https://github.com/Garvv-Mittal
+- Email: garv.mittal31@gmail.com
 
 ###
 
